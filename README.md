@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos
-- 👀 I’m an Engineer
+- 👀 I’m an AI Software Engineer
 <!--- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 --->
